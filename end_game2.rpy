@@ -846,46 +846,46 @@ m "\"Le fait que tu aies pris la peine de faire tout ça en premier temps compte
 "Amicus fronce les sourcils, n'étant clairement pas dupe."
 "Puis il grogne."
 show ami frustrated with dis
-a "\"Fuck!\""
-"Neferu raises a brow."
+a "\"Putain !\""
+"Neferu lève un sourcil."
 show nef skeptic f with dis
-n "\"Poor language for an emperor, Amicus.\""
-"Amicus ignores the jackal, keeping his eyes on me."
+n "\"Piètre manières pour un empereur Amicus.\""
+"Amicus garde les yeux sur moi malgré la remarque de Neferu."
 show ami serious with dis
-a "\"This is the only meeting I'll have all day. It shouldn't last too long, and then we'll still be able to do most of what I planned.\""
-n "\"I wouldn't plan on that. This is a very important—\""
+a "\"C'est la seule réunion que j'aurais aujourd'hui. Ça ne devrait pas être trop long, et nous pourrons être capables de faire tout ce que j'avais prévu.\""
+n "\"Je ne parierai pas dessus, c'est une réunion très importante—\""
 show ami angry with dis
-a "\"I know, ja—Neferu, but it won't last all day. Anyway, [mc], come with me. That way, as soon as the meeting is finished, we can immediately go to our private dinner.\""
+a "\"Je sais, chac—Neferu, mais ça ne va pas durer la journée entière. Bref, [mc], viens avec moi. Comme ça,nous pourrons aller à notre dîner privé lorsque nous aurons terminé la réunion.\""
 show nef serious with dis
-n "\"You're bringing [mc]? Didn't you say we should be keeping his profile low?\""
+n "\"Tu amènes [mc]? Ne disais-tu pas qu'il fallait ?\""
 show ami serious with dis
-a "\"It's Lover's Day. No one will be at the university.\""
-"I raise my hands."
-m "\"I don't want to cause any problems. I can just wait for you here—\""
+a "\"C'est le Jour de l'Amant. Personne ne sera à l'université.\""
+"Je lève mes mains."
+m "\"Je ne veux pas causer de problème. Je peux juste attendre ici—\""
 show ami angry with dis
-a "\"You are causing no problems. You will be accompanying me to the city. As my lover you should be at my side during Lover's Day.\""
+a "\"Tu ne cause aucun problème. Tu vas m'accompagner en ville. En tant que mon amant, tu devrais être à mes côtés pendant le Jour de l'Amant.\""
 show ami embarrassed with dis
-a "\"Erm, if you so choose.\""
-"At this point, anything sounds better than staying in the palace, so the decision is pretty easy."
-m "\"Alright, yeah, let's go.\""
+a "\"Heu... Enfin, si tu le veux.\""
+"À ce point, n'importe quoi semble mieux que de rester dans le palais, alors la décision est plutôt simple."
+m "\"Très bien, d'accord. Allons-y.\""
 show ami with dis
 stop music fadeout 3.0
-"Amicus looks somewhat relieved, letting out a breath before reaching out to take my hand, walking us out into the hallway while Neferu follows behind."
+"Amicus semble un peu soulagé, laissant s'échapper un léger soupir avant de venir me prendre par la main, nous faisant sortir de la chambre pendant que Neferu nous suit."
 scene bg palace1 with dissolve
 play music "sfx/birds.ogg" fadein 3.0
 show ami serious with dis
-a "\"I promise it will be quick, and I'm sorry. Sometimes it's just hard to...\""
-"Amicus seems to struggle to find his words."
-m "\"I understand. You're the emperor. Besides, it's not fair for me to be upset because my boyfriend is spending more time on his emperor duties than me.\""
-a "\"I would understand if you were.\""
-m "\"I just hope it won't be like this forever.\""
+a "\"Je te promets que ce sera rapide, et je suis désolé. Des fois c'est juste dur de...\""
+"Amicus a l'air d'avoir du mal à trouver ses mots."
+m "\"Je comprends, tu es l'empereur. D'ailleurs, ce n'est pas juste de ma part d'être en colère parce que mon copain passe plus de temps sur ses devoirs d'empereur qu'avec moi.\""
+a "\"Je comprendrais si tu l'étais.\""
+m "\"J'espère juste que ça ne sera pas tout le temps comme ça.\""
 show ami with dis
-a "\"It won't be. We're simply at a turning point in Adastran history. When...When you return, and when everything settles, we will have much more time to ourselves.\""
-"My stomach lurches slightly at being reminded that I have my own job to do, one that I'm not looking forward to."
-"I glance back at Neferu, wondering if he should be hearing any of this, but the jackal seems to not be paying attention to anything, his expression distant as his lips move silently."
-"It looks like he's reciting something."
+a "\"Cela ne le sera pas. Nous sommes dans un tournant majeur dans l'histoire d'Adastra. Quand... Quand tu repartiras, et quand tout sera réglé, nous aurons beaucoup plus de temps pour nous.\""
+"Je ressens une boule au ventre lorsqu'il me rappelle que j'aurais aussi mes propres missions, et je ne suis pas spécialement impatient d'y être."
+"Je lance un regard à Neferu, me demandant s'il devrait entendre tout ça. Cependant, le chacal ne semble pas être attentif. Il porte une expression distante sur son visage pendant que ses lèvres bougeaient silencieusement."
+"On dirait qu'il récite quelque chose."
 stop music fadeout 3.0
-"I look forward again, leaning against Amicus as we head outside toward the carriage."
+"Je regarde devant à nouveau, m'appuyant contre Amicus alors que nous dirigeons dehors pour trouver le chariot."
 
 scene bg forest with fade
 play music "sfx/forest.ogg" fadein 3.0
