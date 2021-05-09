@@ -29,7 +29,7 @@ show ale
 with dissolve
 "Parfois, je passe du temps avec Alex, ce que j'apprécie, mais ces derniers temps, je me demande si l'idée que nous soyons en compétition l'un contre l'autre est en train de creuser notre amitié."
 "Pourtant, je passe beaucoup de temps avec lui puisque Cassius est tout autant de sortie qu'Amicus, si ce n'est plus."
-"Nous sortons dans les jardins plusieurs fois et d'autres fois nous regardons la télévision Adastranne ensemble, parfois même pour voir Amicus ou Cassius en train de prononcer des discours devant des foules apparemment infinies de loups."
+"Nous sortons dans les jardins plusieurs fois et d'autres fois nous regardons la télévision Adastrane ensemble, parfois même pour voir Amicus ou Cassius en train de prononcer des discours devant des foules apparemment infinies de loups."
 "Les chaînes semblaient aimer compter les chiffres, et il est clair que Cassius avait toujours l'avantage."
 "Pourtant, d'après ce que j'ai compris, Amicus a eu une petite poussée et parvient au moins à faire mieux que la moitié des chiffres de Cassius."
 "C'est toujours un peu inquiétant, mais d'après ce que je peux dire, la popularité n'est pas prise en compte dans les Épreuves."

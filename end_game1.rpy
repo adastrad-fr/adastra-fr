@@ -163,7 +163,7 @@ a "\"[mc]?\""
 m "\"Oui, Amicus?\""
 a "\"Je suis désolé.\""
 m "\"Désolé ? Pour quoi ?\""
-a "\"Pour tout. Pour t'avoir enlevé de ta planète, pour t'avoir impliqué dans la politique Adastranne, pour avoir fait semblant de tout savoir. Même si c'était le plan des parents, ça ne m'excuse pas et... Je suis désolé.\""
+a "\"Pour tout. Pour t'avoir enlevé de ta planète, pour t'avoir impliqué dans la politique Adastrane, pour avoir fait semblant de tout savoir. Même si c'était le plan des parents, ça ne m'excuse pas et... Je suis désolé.\""
 m "\"Quel plan ?\""
 scene wemadeit4 with dis
 stop music fadeout 10.0
@@ -432,7 +432,7 @@ c "\"Oui, ce sera bien mieux de concentrer toute mon énergie sur ça plutôt qu
 "Il me regarde de près."
 show cas paw with dis
 c "\"Je sais que tu es très proche de lui, alors s'il te plaît, si je dois te demander une seule chose, c'est de t'assurer qu'il n'oublie pas ceux qui sont en dehors des Cités Triumvir.\"" # À reformuler, peut être ?
-c "\"Leur situation est désespérée et si nous allons vraiment récolter un peu d'argent de cette alliance, alors ils devraient être les premiers à en profiter, pas les Élites Adastrannes.\""
+c "\"Leur situation est désespérée et si nous allons vraiment récolter un peu d'argent de cette alliance, alors ils devraient être les premiers à en profiter, pas les Élites Adastranes.\""
 "C'est l'un des rares moments où Cassius est vraiment gentil avec moi, alors je lui hoche la tête solennellement."
 m "\"Bien sûr.\""
 "Je m'assurerais aussi qu'Amicus n'oublie pas les Enfants Loups, et rectifier le mal que les anciens dirigeants leur ont fait."
@@ -521,7 +521,7 @@ m "\"À cause du fait que tu aies presque été exécuté ?\""
 show nef sidetalk f with dis
 n "\"Ça, mais aussi le fait que Cato ait diffusé mon agression juste avant l'exécution planifiée. Ça tourne sur toutes les chaînes de télévision depuis.\""
 m "\"Oh...\""
-"Je n'ai pas regardé la télévision adastranne après avoir vu les reconstitutions de ma propre mort, alors je suppose que j'ai manqué Neferu se faire littéralement casser les couilles encore et encore."
+"Je n'ai pas regardé la télévision Adastrane après avoir vu les reconstitutions de ma propre mort, alors je suppose que j'ai manqué Neferu se faire littéralement casser les couilles encore et encore."
 m "\"Euh... Eh bien, tu connais les Loups, ils veulent toujours du drama.\""
 show nef talking f with dis
 n "\"It's been spread across the entire {i}Galaxias{/i}. I suppose seeing a Khemian in such a position is rather amusing to everyone, siblings and children alike.\""
@@ -682,7 +682,7 @@ play music "music/secondthoughts1.ogg" fadein 5.0
 "Je ne redoute plus une quatrième épreuve ou un combat qui va décider de mon avenir."
 "Maintenant c'est plus comme si tout se passait tranquillement sans réelle conséquence."
 "La vie dans le palais est redevenue routinière."
-"J'ai mon petit planning qui contient du jardinage et du visionnage de programmes de la télévision adastranne que j'ai réussi à tolérer avec le temps."
+"J'ai mon petit planning qui contient du jardinage et du visionnage de programmes de la télévision Adastrane que j'ai réussi à tolérer avec le temps."
 scene bg amicusroom with dissolve
 "Je commence à étudier, utilisant Com comme un professeur, apprenant tout ce que je peux à propos d'Adastra et de l'histoire du {i}Galaxias{i}."
 "J'ai même assez de temps pour apprendre la Langue."
@@ -711,7 +711,7 @@ scene bg emperorbedroomnight with dissolve
 "Et bien que je n'ai jamais vraiment eu de connexion avec elle, ce serait quand même bien d'avoir un peu de compagnie."
 "Je veux dire, même Cassius serait une distraction plus que bienvenue, mais le loup blanc a quitté le palais pour aller visiter les régions les plus pauvres d'Adastra pour allouer les ressources plus efficacement."
 "Et il s'avèrerait qu'il est aussi parti avec mon ancien meilleur ami Alexios."
-"Cassius nous a tous laissés bouche-bée quand il a fait ça. Effectuer un important travail social pendant qu'un espion et un saboteur qui pourrait être le responsable de beaucoup de dommages contre la société adastranne est à ses côtés."
+"Cassius nous a tous laissés bouche-bée quand il a fait ça. Effectuer un important travail social pendant qu'un espion et un saboteur qui pourrait être le responsable de beaucoup de dommages contre la société Adastrane est à ses côtés."
 "Amicus était catégorique et voulait déporter Alex sur Omorfa, mais Cassius lui a parlé et je suppose qu'il a dû être convaincant."
 "Amicus a simplement assigné des gardes pour garder un œil sur Alex."
 "Quand j'avais demandé à Amicus, il m'avait juste dit que le chat était impuissant maintenant, privé de toute communication avec son monde natal après que toute communication avec Omorfa ayant été bloquées après le scandale—"
@@ -771,7 +771,7 @@ m "\"O—Oh! Merci.\""
 show ami happy with dis
 a "\"Je t'en prie !\""
 "Je reste assis quelques secondes en tenant bizarrement le bouquet, remarquant que les tiges gouttent sur les draps, alors je les ramène sur le coin du lit."
-m "\"Est-ce que, heu, c'est une fête adastranne ?\""
+m "\"Est-ce que, heu, c'est une fête Adastrane ?\""
 show ami eyes with dis
 a "\"En effet ! Pour célébrer l'être aimé, et pour moi, c'est toi, [mc]. Je t'aime.\""
 "Bien que je sois un peu surpris par le côté inattendu de la chose, je réussis à sourire."
@@ -918,7 +918,7 @@ m "\"Et tu as dit qu'elles allaient se dérouler dans une université ?\""
 a "\"Oui, il y aura quelques experts de Khemia... Et je suppose que les Khemians trouvent les endroits scolaires un peu plus confortables pour y négocier.\""
 "Amicus jette un regard à Neferu pour avoir confirmation."
 show nef serious a with dis
-n "\"Je pense plutôt que c'est parce que l'Académie Adastranne est plus amicale par rapport à d'autres départements politiques, ou même le palais.\""
+n "\"Je pense plutôt que c'est parce que l'Académie Adastrane est plus amicale par rapport à d'autres départements politiques, ou même le palais.\""
 "Amicus a un sourire en coin."
 show ami with dis
 a "\"En effet, le dernier bastion des Khemaphiles.\""
@@ -1009,7 +1009,7 @@ hide nef with dis
 "Je l'imagine être le Vizir, et à côté de lui semble être une sorte de créature assez large d'épaule, ressemblant un peu à un carcajou."
 "Ses vêtements et la peinture sur sa fourure est typique des Khemians. Cela doit être l'ambassadeur."
 "En queue de file se trouvait un loup plus jeune, ayant une fourrure un peu plus longue sur sa nuque, qu'il avvait stylisé en une tresse."
-"J'avais entendu parler des loups avec des crinières dans mes études, c'était un trait cultivé parmi l'Élite adastranne, un symbole des familles influentes."
+"J'avais entendu parler des loups avec des crinières dans mes études, c'était un trait cultivé parmi l'Élite Adastrane, un symbole des familles influentes."
 "Le loup à la crinière tressée commence à regarder dans ma direction, mais c'est à ce moment-là que je me retire rapidement et me cache derrière le marbre, attendant d'entendre les portes se refermer."
 "Je suis seul, debout entre les silencieuses et impeccables statues de marbre de la prestigieuse université."
 "En premier lieu, je m'asseois sur un banc, m'imprégnant de l'architecture lupine, pensant à quel point ce serait génial de venir étudier ici à la place."

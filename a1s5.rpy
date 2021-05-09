@@ -57,7 +57,7 @@ menu:
         $ end_game3 += 1
         "\"Je vois...peut être que tu as encore besoin de temps. Tu as encore beaucoup, beaucoup à apprendre.\""
 stop loop fadeout 7.0
-"La présence au-dessus de moi commence à se dissiper, et je m'efface aussi de la réalité."
+"La présence au-dessus de moi commence à se dissiper, et moi aussi."
 with Pause(3)
 scene bg bathroom with slow_dissolve
 "Je me tiens maladroitement dans la salle de bain pendant qu'un autre loup se déplace activement autour de moi, faisant des commentaires courts et tronqués sur ma forme étrange et ma petite taille."
@@ -66,7 +66,7 @@ show ami at right with dissolve
 "Pendant ce temps, Amicus se tient derrière nous, son visage montrant un mélange d'amusement et d'inquiétude."
 "Je lève un sourcil vers lui à travers le miroir, mais il hausse les épaules en réponse."
 "Vieux Loup" "\"Ne bougez pas votre ... visage, s'il vous plaît.\""
-"Je regarde à nouveau droit devant moi, le laissant maculer mon visage avec ce maquillage noir, pendant que j'essaie toujours de ne pas le regarder."
+"Je regarde à nouveau droit devant moi, le laissant maculer mon visage avec ce maquillage noir, essayant toujours de ne pas le regarder."
 "Il est voûté et tombant, portant une sorte de monocle avec des lumières clignotantes."
 "La lentille ressort de temps en temps avec un bourdonnement mécanique alors qu'il examine son travail."
 "Aussi, je suis en robe."
@@ -107,7 +107,7 @@ show ami embarrassed with dis
 a "\"Offensant ? Pourquoi ce serait offensant ? Nous honorons Meera avec cette danse.\""
 m "\"Si tu en es sûr ...\""
 show ami happy eyes with dis
-a "\"Evidemment que j'en suis sûr ! Et tu ne ressembles pas à une plaisanterie, tu ressembles à une tigresse Hindo forte et belle.\""
+a "\"Evidemment que j'en suis sûr ! Et tu ne ressembles pas à une plaisanterie, tu ressembles à une tigresse hindoue forte et belle.\""
 "Je soupire à nouveau, tenant toujours maladroitement mes bras loin de la robe, me sentant raide."
 m "\"Quand est ce que l'épreuve commence ?\""
 show ami with dis
@@ -123,10 +123,10 @@ m "\" TOUT Adastra ? En direct !?\""
 a "\"Ne t'inquiétes pas ! Personne ne sera réellement présent, alors... fais semblant, j'imagine.\""
 m "\"Pourquoi tu me l'a dit ?\""
 show ami crossed serious with dis
-a "\"Eh bien, j'avais prévu que tu regardes la première moitié de l'épreuve dans la salle à manger. Tu aurais découvert comment tout se passe jusqu'à ce que ce soit ton tour.\""
+a "\"Eh bien, j'avais prévu que tu regardes la première moitié de l'épreuve dans la salle à manger. Tu sauras comment tout se passe jusqu'à ce que ce soit ton tour.\""
 "Je déglutis bruyamment."
 show ami embarrassed with dis
-a "\"Je ne voulais pas te cacher ça, j'ai juste pensé que tu savais peut-être que ce serait le cas ... la lune entière prête une attention très particulière aux Épreuves.\""
+a "\"Je ne voulais pas te cacher ça, j'ai juste pensé que tu savais peut-être que ce serait le cas ... la lune entière prête une attention très particulière à ces épreuves.\""
 "Il a raison, j'ai en quelque sorte supposé que ce serait le cas, mais maintenant que j'en ai la certitude ..."
 "J'ai l'impression que je vais m'évanouir."
 "Peut-être que j'aurai de la chance et que ça arrivera quand Meera mourra pendant la danse."
@@ -158,7 +158,7 @@ m "\"Oh ... alors je suppose qu'on ne pourra pas faire ça, hein ?\""
 show ami motivated with dis
 a "\"Nous verrons cela plus tard, ne pensons plus à ça pour le moment. Nous avons une épreuve à gagner !\""
 show ami with dis
-"Amicus se tourne vers moi et, après un court moment d'hésitation, me prend dans une rapide étreinte, évitant soigneusement la poudre noire sur mes bras."
+"Amicus se tourne vers moi et, après une petite hésitation, me prend dans une rapide étreinte, évitant soigneusement la poudre noire sur mes bras."
 a "\"Nous parlerons plus après coup, autour d'un dîner de fête, d'accord ?\""
 "La confiance absolue et le réconfort dans la voix d'Amicus me calme un peu, et je parviens à esquisser un petit sourire."
 m "\"D'accord...\""
@@ -169,8 +169,8 @@ m "\"Amicus ...\""
 show ami happy eyes with dis
 a "\"Si tu en as envie, si tu en as envie ...\""
 show ami with dis
-"Amicus rit avant que ses oreilles ne se redressent, son Com personnel lui parlant dans un petit bruit murmurant."
-a "\"Très bien, c'est le signal. Dirige toi vers la salle à manger si tu souhaites regarder. Sinon, Com te dira quand partir pour la salle du trône, d'accord ?\""
+"Amicus rit avant que ses oreilles ne se redressent, son Com personnel lui parlant dans un petit bruit de babillage."
+a "\"Très bien, c'est mon signal. Dirige toi vers la salle à manger si tu souhaites regarder. Sinon, Com te dira quand partir pour la salle du trône, d'accord ?\""
 "Je hoche la tête, et Amicus me donne une dernière tape sur l'épaule avant de se retourner."
 m "\"Euh, bonne chance. Je sais que tu vas réussir.\""
 show ami eyes with dis
@@ -198,7 +198,7 @@ al "\"Oh ! Bonjour, [mc] ... Comment vas-tu ?\""
 "Je me sens devenir rouge et j'aurais désespérément souhaité rester dans la chambre d'Amicus."
 "Je suis capable d'intérioriser mon embarras pour l'instant."
 "Je connais assez bien Alex, après tout."
-m "\"Où est {i}ton{/ i} costume? \""
+m "\"Où est {i}ton{/ i} costume ? \""
 "À ce stade, je sens que je suis la seule personne à se déguiser."
 "Je m'assois sur le lit du milieu, ne voulant pas être directement en face du chat pour ne pas qu'il me fixe."
 show ale tilt u with dis
@@ -223,14 +223,14 @@ al "\"C'est tellement embarrassant.\""
 "Mais ça ne sonne pas du tout comme un cor d'harmonie, cependant."
 "Le volume est faible, mais je peux entendre le son rauque et grésillant qu'il produit."
 "Ce n'est pas agréable à mon oreille, mais l'idée de ce qu'est la musique et la danse semble très différente de la Terre."
-m "\"Eh bien, je préfèrerais être à moitié nu. Et si c'est mon introduction à la lune, pourquoi suis-je tout recouvert comme ça ? Je suis presque sûr qu'ils préfèreraient mieux voir à quoi je ressemble {i}réellement{/ i}.\""
-"Mais comme je ça, je me demande si c'est peut-être POURQUOI Amicus m'avait tellement recouvert."
+m "\"Je préfèrerais quand même être à moitié nu. Et si c'est mon introduction à la lune, pourquoi je suis tout recouvert comme ça ? Je suis presque sûr qu'ils préfèreraient mieux voir à quoi je ressemble {i}réellement{/ i}.\""
+"Mais comme je dis ça, je me demande si c'est peut-être POURQUOI Amicus m'avait tellement recouvert."
 show ale smile u with dis
-al "\"La robe est  très belle je t'assure ... c'est le maquillage qui me surprend. Je suppose que c'est très ... Loup-esque de faire quelque chose comme cela.\""
+al "\"La robe est très belle, je t'assure ... c'est le maquillage qui me surprend. Je suppose que c'est très ... Loup-esque de faire quelque chose comme ça.\""
 "Je regarde Alex en fronçant les sourcils."
 m "\"Loup-esque ? Est-ce que c'est offensant ?\""
 show ale sad e u with dis
-al "\"Uhhhh ... peut-être juste un peu, mais pas pour les loups, donc tu n'as pas à t'inquiéter. Les Hindos ne parlent plus à Adastra.\""
+al "\"Uhhhh ... peut-être juste un peu, mais pas pour les loups, donc tu n'as pas à t'inquiéter. Les Hindous ne parlent plus à Adastra.\""
 m "\"Oh mon dieu ...\""
 "Je veux enfouir mon visage dans mes mains, mais je ne peux pas avec tout le maquillage."
 "En plus de ça, tout commence à me démanger."
@@ -616,7 +616,7 @@ a "\"C'est comment, \"sortir ensemble\" sur ta planète ?\""
 "Je hausse les épaules, même si c'est difficile à faire contre l'étreinte serrée du loup."
 m "\"Eh bien ... tu proposes à quelqu'un que tu aimes un rendez-vous galant. En fait ça signifie simplement que tu aimes la personne et que tu veux en savoir plus sur elle et sortir avec t'aide à y arriver.\""
 a "\"Ah, ça a l'air assez décontracté. Alors, comment peut-on initier ce... Rendez-vous Galant ?\""
-m "\"Je ne sais pas, demande-leur simplement ... donne-leur des fleurs si tu es vieux-j eu, mais c'est assez décontracté, honnêtement.\""
+m "\"Je ne sais pas, demande-leur simplement ... donne-leur des fleurs si tu es vieux-jeu, mais c'est assez décontracté, honnêtement.\""
 a "\"Mmmh.\""
 m "\"Pourquoi es-tu si curieux ?\""
 "C'est au tour d'Amicus de hausser les épaules."
@@ -739,7 +739,7 @@ show ami embarrassed with dissolve
 a "\"Ou - oui, je regardais simplement les roses.\""
 "Le loup marche vers moi, ses pattes derrière le dos."
 "Je lève un sourcil vers lui."
-m "\"Tu nous espionnais ? Tu essayais d'éviter Neferu, ou un truc du genre ?\""
+m "\"Tu nous espionnais ? Tu essayais d'éviter Neferu, ou un truc comme ça ?\""
 "Amicus m'ignore cette fois."
 show ami eyes with dis
 a "\"Comment s'est passée ta journée, [mc] ?\""
@@ -792,7 +792,7 @@ a "\"Eh bien, ce que tu m'as dit; c'est un statut relationnel qui te permet de t
 m "\"Eh bien, les gens qui sortent ensemble ont aussi tendance à avoir ... je suppose des sentiments les uns pour les autres.\""
 show ami emabrrassed with dis
 a "\"Eh bien oui, j'ai des sentiments très amicaux pour toi, et je veux que tu sois plus à l'aise avec moi, surtout en ce qui concerne l'intimité physique. N'est-ce pas le but de sortir ensemble ?\""
-"Je soupire, réalisant que je ne l'avais pas assez bien expliqué, mais je n'avais également pas réalisé qu'Amicus avait l'intention de faire ça."
+"Je soupire, réalisant que je ne l'avais pas assez bien expliqué, mais je n'avais pas réalisé qu'Amicus avait l'intention de faire ça non plus."
 m "\"Eh bien, en général, les gens ne le font pas à moins qu'ils aient des sentiments...amoureux.\""
 "Ma voix devient de plus en plus silencieuse au cours de la phrase jusqu'à ce qu'Amicus doive pousser ses oreilles en avant pour m'entendre."
 a "\"Amoureux ?\""
@@ -885,7 +885,7 @@ show ami smile eyes with dis
 a "\"Non, en fait, maintenant que tu me l'as dit je suis en bien meilleure forme. J'ai maintenant une idée du style qu'il pourrait utiliser, ce qui me permettra de contrer plus facilement ses points.\""
 m "\"Si tu en es sûr...\""
 show ami motivated with dis
-a "\"Bien sûr ! Maintenant, viens dans ma chambre pour m'aider à m'entraîner, histoire de bien m'assure que je gagne.\""
+a "\"Bien sûr ! Maintenant, viens dans ma chambre pour m'aider à m'entraîner, juste pour être sûr que je gagnerai.\""
 stop music fadeout 5.0
 play loop"sfx/birds.ogg" fadein 3.0
 scene bg garden2 with dissolve
