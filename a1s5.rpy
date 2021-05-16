@@ -107,7 +107,7 @@ show ami embarrassed with dis
 a "\"Offensant ? Pourquoi ce serait offensant ? Nous honorons Meera avec cette danse.\""
 m "\"Si tu en es sûr ...\""
 show ami happy eyes with dis
-a "\"Evidemment que j'en suis sûr ! Et tu ne ressembles pas à une plaisanterie, tu ressembles à une tigresse hindoue forte et belle.\""
+a "\"Évidemment que j'en suis sûr ! Et tu ne ressembles pas à une plaisanterie, tu ressembles à une tigresse hindoue forte et belle.\""
 "Je soupire à nouveau, tenant toujours maladroitement mes bras loin de la robe, me sentant raide."
 m "\"Quand est ce que l'épreuve commence ?\""
 show ami with dis
